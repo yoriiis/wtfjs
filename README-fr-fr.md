@@ -13,7 +13,7 @@ L'idée originale de WTFJS appartient à [Brian Leroux](https://twitter.com/bria
 
 [![dotJS 2012 - Brian Leroux - WTFJS](https://img.youtube.com/vi/et8xNAc2ic8/0.jpg)](https://www.youtube.com/watch?v=et8xNAc2ic8)
 
-# Le Manuscript sous forme de _package_ Node
+# Le Manuscript sous forme de paquet Node
 
 Vous pouvez installer ce manuel en utilisant `npm`. Pour cela, il suffit d'exécuter :
 
